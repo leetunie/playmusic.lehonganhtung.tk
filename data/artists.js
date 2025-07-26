@@ -2,7 +2,7 @@ var listArtist = [
       {
         name: "Lê Hồng Anh Tùng",
         followers: "3M2",
-        image: "./assets/img/artists/https://sf-static.upanhlaylink.com/img/image_20250726f82e87798527b991ef0f5dceaaa93ca8.jpg"
+        image: "https://sf-static.upanhlaylink.com/img/image_20250726f82e87798527b991ef0f5dceaaa93ca8.jpg"
     },    {
         name: "CHƯA CÓ NGƯỜI YÊU",
         followers: "Lê Hồng Anh Tùng",
